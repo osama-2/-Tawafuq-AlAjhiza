@@ -1,0 +1,180 @@
+{
+  "meta": {
+    "version": 2,
+    "policy": "لا يتم اعتماد أي توافق بدون مصدر ومراجعة فنية.",
+    "note": "البيانات أدناه أمثلة هيكلية لاستخدام الواجهة، وليست قاعدة توافق نهائية."
+  },
+  "devices": [
+    {
+      "id": "realme-demo-1",
+      "brand": "Realme",
+      "model": "Demo RMX Device",
+      "model_numbers": [
+        "RMX-DEMO"
+      ],
+      "aliases": [
+        "Realme Demo"
+      ],
+      "parts": [
+        {
+          "id": "p1",
+          "category": "الشاشات",
+          "name": "Screen Assembly",
+          "part_number": "DEMO-SCR-RMX",
+          "aliases": [
+            "LCD",
+            "OLED"
+          ],
+          "compatibility": []
+        },
+        {
+          "id": "p2",
+          "category": "البطاريات",
+          "name": "Battery",
+          "part_number": "DEMO-BAT-RMX",
+          "aliases": [
+            "Battery"
+          ],
+          "compatibility": []
+        },
+        {
+          "id": "p3",
+          "category": "الكاميرات",
+          "name": "Rear Camera",
+          "part_number": "DEMO-CAM-RMX",
+          "aliases": [
+            "Camera"
+          ],
+          "compatibility": []
+        },
+        {
+          "id": "p4",
+          "category": "الشحن",
+          "name": "Charging Board",
+          "part_number": "DEMO-CHG-RMX",
+          "aliases": [
+            "Sub Board"
+          ],
+          "compatibility": []
+        },
+        {
+          "id": "p5",
+          "category": "اللزقات",
+          "name": "Screen Adhesive",
+          "part_number": "DEMO-ADH-RMX",
+          "aliases": [
+            "Sticker",
+            "Adhesive"
+          ],
+          "compatibility": []
+        }
+      ]
+    },
+    {
+      "id": "samsung-demo-1",
+      "brand": "Samsung",
+      "model": "Demo Galaxy Device",
+      "model_numbers": [
+        "SM-DEMO"
+      ],
+      "aliases": [
+        "Galaxy Demo"
+      ],
+      "parts": [
+        {
+          "id": "s1",
+          "category": "الشاشات",
+          "name": "Display Assembly",
+          "part_number": "DEMO-SCR-SAM",
+          "aliases": [
+            "Display"
+          ],
+          "compatibility": []
+        },
+        {
+          "id": "s2",
+          "category": "البطاريات",
+          "name": "Battery",
+          "part_number": "DEMO-BAT-SAM",
+          "aliases": [
+            "Battery Code"
+          ],
+          "compatibility": []
+        },
+        {
+          "id": "s3",
+          "category": "السماعات",
+          "name": "Loudspeaker",
+          "part_number": "DEMO-SPK-SAM",
+          "aliases": [
+            "Speaker"
+          ],
+          "compatibility": []
+        },
+        {
+          "id": "s4",
+          "category": "الفلاتات",
+          "name": "Power Flex",
+          "part_number": "DEMO-PWR-SAM",
+          "aliases": [
+            "Power Button Flex"
+          ],
+          "compatibility": []
+        }
+      ]
+    },
+    {
+      "id": "apple-demo-1",
+      "brand": "Apple",
+      "model": "Demo iPhone Device",
+      "model_numbers": [
+        "A-DEMO"
+      ],
+      "aliases": [
+        "iPhone Demo"
+      ],
+      "parts": [
+        {
+          "id": "a1",
+          "category": "الشاشات",
+          "name": "Display",
+          "part_number": "DEMO-IP-DIS",
+          "aliases": [
+            "Screen"
+          ],
+          "compatibility": []
+        },
+        {
+          "id": "a2",
+          "category": "الكاميرات",
+          "name": "Camera Module",
+          "part_number": "DEMO-IP-CAM",
+          "aliases": [
+            "Rear Camera"
+          ],
+          "compatibility": []
+        },
+        {
+          "id": "a3",
+          "category": "الظهر والفريم",
+          "name": "Back Glass / Housing",
+          "part_number": "DEMO-IP-HSG",
+          "aliases": [
+            "Back Cover"
+          ],
+          "compatibility": []
+        },
+        {
+          "id": "a4",
+          "category": "الكابلات",
+          "name": "Data Cable",
+          "part_number": "DEMO-IP-CBL",
+          "aliases": [
+            "Cable"
+          ],
+          "compatibility": []
+        }
+      ]
+    }
+  ]
+}

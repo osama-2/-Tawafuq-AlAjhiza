@@ -1,0 +1,28 @@
+{
+  "sources": [
+    {
+      "name": "شركة صدى الوطني",
+      "url": "https://www.sadaalwatany.com/",
+      "type": "مورد قطع غيار",
+      "use": "مرجع محتمل لمنتجات وتوافقات منشورة علناً؛ الاستيراد الآلي يحتاج إذن/شروط استخدام مناسبة."
+    },
+    {
+      "name": "GSM IRAQ Hardware",
+      "url": "https://hardware.gsm-iraq.com/",
+      "type": "نظام توافقات",
+      "use": "مرجع مقارنة ومصدر عند توفر حق استخدام البيانات."
+    },
+    {
+      "name": "Mechanic Iraq Compatibility Checker",
+      "url": "https://mechaniciraq.com/compatibility-checker/",
+      "type": "فاحص تطابق شاشات",
+      "use": "مرجع خارجي للتوافقات المنشورة."
+    },
+    {
+      "name": "Amwaj Mobile",
+      "url": "https://www.amwajmob.com/",
+      "type": "مورد قطع غيار",
+      "use": "مصدر منتجات وأرقام قطع منشورة."
+    }
+  ]
+}
